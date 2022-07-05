@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ellie from South Korea.
 - 👀 I’m interested in Embedded System Software Development.
-- 🌱 I’m currently learning Yocto.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on building the project.
 - 📫 How to reach me ...
 
