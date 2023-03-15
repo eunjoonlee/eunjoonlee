@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ellie from South Korea.
+- 👋 Hi, I’m EJ from South Korea.
 - 👀 I’m interested in Embedded System Software Development.
 - 🌱 I’m currently working on C++ projects.
 
